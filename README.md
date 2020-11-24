@@ -1,5 +1,5 @@
-# ada-2020-project-milestone-p3-p3_ada-or-nada
-ada-2020-project-milestone-p3-p3_ada-or-nada created by GitHub Classroom
+# Milestone P3
+Extension Project proposition
 
 **1. Title**
 
