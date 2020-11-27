@@ -24,21 +24,21 @@ On the 10 proposals of social studies of the paper, only 4 are replicated. The a
 
 **5. Methods**
 
-The main idea is to use similar methods
+The main idea is to use similar methods as in the paper in order to compare our results to the study's results.
 
-**Data collection:** we chose to use the datasets as they are as he access to Instagram API is very limited.
+**Data collection:** we chose to use datasets available as the access to Instagram API is very limited.
 
 **Circadian rythm:** we will plot daily and weekly rythm of Instagram activity, i.e. plot number of tweets and number of users against the hours for each day of the week.
 
-**Attention vs. productivity:** For attention, we will consider both followers and followees. Unfortunately, we can not try to consider friends (a friend is a mutual follwer-followee connection betwwen two users) as our dataset is not suited to compute reciprocity.
+**Attention vs. productivity:** For attention, we will consider both followers and followees. Unfortunately, we can not consider friends (a friend is a mutual follwer-followee connection betwwen two users) as our dataset is not suited to compute reciprocity. The idea is to plot the number of followers and the number of followees against the number of tweets and add a tendency curve. We will also compute Pearson correlation between the number of followers (and followees) and the number of tweets. Then we will compare these with the Pearson correlation computed for the Twitter dataset in the paper.
 
 
 **6. Proposed timeline**
 
 **Week 1:** downloading of the datasets and first checks of consistency: visualization and exploratory data analysis.
 
-**Week 2:** first plots to check for the ciracdian rythm, build up of the plots for the second question (is attention related to productivity ?). For attention, we will consider both followers, followees and friends (a friend is a mutual follwer-followee connection betwwen two users)
+**Week 2:** first plots to check for the ciracdian rythm, build up of the plots for the second question (is attention related to productivity ?) with the tendency curve.
 
-**Week 3:**
+**Week 3:** compute the needed values for the follower-followee network analysis
 
 **7. Organization within the team**
