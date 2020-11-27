@@ -28,7 +28,7 @@ The main idea is to use similar methods as in the paper in order to compare our 
 
 **Data collection:** we chose to use datasets available as the access to Instagram API is very limited.
 
-**Circadian rythm:** we will plot daily and weekly rythm of Instagram activity, i.e. plot number of tweets and number of users against the hours for each day of the week.
+**Circadian rythm:** In the dataset that will be used for the circadian rythm there are two different subsets of data that are interesting. The first one is the time at which the instrgram post is created, this is in relative time with respect to the local time of the creator of the dataset. The second subset that is relevant to this study is the longitude of the post, this indicates the local time at which the post is created. With these two parameters it is possible to plot the number of posts in function of the local time and thus hopefully reproduce the trend of the circadian rythm.
 
 **Attention vs. productivity:** For attention, we will consider both followers and followees. Unfortunately, we can not consider friends (a friend is a mutual follwer-followee connection betwwen two users) as our dataset is not suited to compute reciprocity. The idea is to plot the number of followers and the number of followees against the number of tweets and add a tendency curve. We will also compute Pearson correlation between the number of followers (and followees) and the number of tweets. Then we will compare these with the Pearson correlation computed for the Twitter dataset in the paper.
 
