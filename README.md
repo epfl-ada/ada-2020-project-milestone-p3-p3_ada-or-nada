@@ -14,24 +14,30 @@ On the 10 proposals of social studies of the paper, only 4 are replicated. The a
 
 1. Is there a circadian rythm on Instagram ?
 2. Do users on Instagram with most followers post more, i.e. is attention related to productivity ?
-3. How is the followee-follwers network distributed on Instagram ?
+3. How is the followee-followers network distributed on Instagram ?
 
 **4. Proposed Dataset**
 
 - In order to answer the first question, we need an Instagram dataset containing the hour of posting, therefore [this dataset](https://github.com/eldersantos/instagram-dataset) from Github will be used. It contains the time of posting as well as the user ID.
-- For the other questions, we will use another [dataset on GitHub](https://github.com/samudm98/dataset_instagram/blob/master/data_set.csv) containing user ID as well as their number of followers and followees and the number of posts.
+- For the second question, we will use another [dataset on GitHub](https://github.com/samudm98/dataset_instagram/blob/master/data_set.csv) containing user ID as well as their number of followers and followees and the number of posts.
+- For the third question, we will use [Huawei Social Network Data](https://www.kaggle.com/andrewlucci/huawei-social-network-data), more precisely, the Instagram network consisting of 1000 nodes and 4933 edges
 
 **5. Methods**
 
+The main idea is to use similar methods
+
 **Data collection:** we chose to use the datasets as they are as he access to Instagram API is very limited.
 
-**Circadian rythm:** 
+**Circadian rythm:** we will plot daily and weekly rythm of Instagram activity, i.e. plot number of tweets and number of users against the hours for each day of the week.
+
+**Attention vs. productivity:** For attention, we will consider both followers and followees. Unfortunately, we can not try to consider friends (a friend is a mutual follwer-followee connection betwwen two users) as our dataset is not suited to compute reciprocity.
+
 
 **6. Proposed timeline**
 
 **Week 1:** downloading of the datasets and first checks of consistency: visualization and exploratory data analysis.
 
-**Week 2:** first plots to check for the ciracdian rythm (daily and weekly rythm of Instagram activity: plot number of tweets and number of users against the hours for each day), build up of the plots for the second question (is attention related to productivity ?). For attention, we will consider both followers, followees and friends (a friend is a mutual follwer-followee connection betwwen two users)
+**Week 2:** first plots to check for the ciracdian rythm, build up of the plots for the second question (is attention related to productivity ?). For attention, we will consider both followers, followees and friends (a friend is a mutual follwer-followee connection betwwen two users)
 
 **Week 3:**
 
