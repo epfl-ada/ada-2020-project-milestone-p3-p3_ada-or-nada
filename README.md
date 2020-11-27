@@ -22,8 +22,8 @@ On the 10 proposals of social studies of the paper, only 4 are replicated. The a
 - For the other questions, we will use another [dataset on GitHub](https://github.com/samudm98/dataset_instagram/blob/master/data_set.csv) containing user ID as well as their number of followers and followees and the number of posts.
 
 **5. Methods**
-
-
+**Data collection:** we chose to use the datasets as they are as he access to Instagram API is very limited.
+**Circadian rythm:** 
 
 **6. Proposed timeline**
 
