@@ -32,6 +32,7 @@ The main idea is to use similar methods as in the paper in order to compare our 
 
 **Attention vs. productivity:** For attention, we will consider both followers and followees. Unfortunately, we can not consider friends (a friend is a mutual follwer-followee connection betwwen two users) as our dataset is not suited to compute reciprocity. The idea is to plot the number of followers and the number of followees against the number of tweets and add a tendency curve. We will also compute Pearson correlation between the number of followers (and followees) and the number of tweets. Then we will compare these with the Pearson correlation computed for the Twitter dataset in the paper.
 
+**Followers-followees network:** : The available data is a network with the relationship of follower/followee between users in instagram. From this network, the number of mutual or singular followers will be extracted. Then the  degree distribution in the follower-followee network will be plotted for the three different relationships:  follower,followee or reciprocal.
 
 **6. Proposed timeline**
 
@@ -39,6 +40,6 @@ The main idea is to use similar methods as in the paper in order to compare our 
 
 **Week 2:** first plots to check for the ciracdian rythm, build up of the plots for the second question (is attention related to productivity ?) with the tendency curve.
 
-**Week 3:** compute the needed values for the follower-followee network analysis
+**Week 3:** compute the needed values for the follower-followee network analysis and check all question results to draw conclusions
 
 **7. Organization within the team**
