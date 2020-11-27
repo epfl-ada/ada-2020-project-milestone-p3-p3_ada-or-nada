@@ -7,8 +7,7 @@ Testing replicated propositions from Twitter studies on Instagram: generalizatio
 
 **2. Abstract**
 
-On the 10 proposals of social studies of the paper, only 4 are replicated. The authors suggest 'it might be because these propositions reflect the homogeneity of online user behaviors'.
-The idea is then to have a closer look on this statement and test if 3 of the 4 replicated proposals are robust when tested on another social media, here Instagram. As said in paper, we 'Need to retest the robustness of these propositions before we can consider them as universal’.
+On the 10 proposals of social studies of the paper, only 4 are replicated. The authors suggest 'it might be because these propositions reflect the homogeneity of online user behaviors'. Thus the idea is to have a closer look on this statement and test if 3 of the 4 replicated proposals are robust when tested on another social media, here Instagram. As said in paper, we 'Need to retest the robustness of these propositions before we can consider them as universal’. Our goal will be to select these 3 proposals and try to replicate the results from the Twitter social studies.
 
 
 **3. Research questions**
@@ -23,6 +22,7 @@ The idea is then to have a closer look on this statement and test if 3 of the 4 
 - For the other questions, we will use another [dataset on GitHub](https://github.com/samudm98/dataset_instagram/blob/master/data_set.csv) containing user ID as well as their number of followers and followees and the number of posts.
 
 **5. Methods**
+
 
 
 **6. Proposed timeline**
