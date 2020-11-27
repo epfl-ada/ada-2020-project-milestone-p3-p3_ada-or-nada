@@ -43,3 +43,8 @@ The main idea is to use similar methods as in the paper in order to compare our 
 **Week 3:** Compute the needed values for the follower-followee network analysis and check all question results to draw conclusions
 
 **7. Organization within the team**
+
+Borja will be first in charge of the data visualization and Andréa will perform exploratory data analysis. Once it is done, they will share their results, datasets and conclusions with Nada.
+Nada will do the plots for the circadian rythm question and Borja will make the plots and computations for the attention vs. productivity question.
+Andréa will analyse the follower and followee network and Nada will check the answers and plots for all questions to prepare the conclusions.
+Finally, all team members will share their work and conclusions together.
