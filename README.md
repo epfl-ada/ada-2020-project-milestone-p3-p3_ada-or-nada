@@ -29,5 +29,10 @@ On the 10 proposals of social studies of the paper, only 4 are replicated. The a
 
 **6. Proposed timeline**
 
+**Week 1:** downloading of the datasets and first checks of consistency: visualization and exploratory data analysis.
+
+**Week 2:** first plots to check for the ciracdian rythm (daily and weekly rythm of Instagram activity: plot number of tweets and number of users against the hours for each day), build up of the plots for the second question (is attention related to productivity ?). For attention, we will consider both followers, followees and friends (a friend is a mutual follwer-followee connection betwwen two users)
+
+**Week 3:**
 
 **7. Organization within the team**
